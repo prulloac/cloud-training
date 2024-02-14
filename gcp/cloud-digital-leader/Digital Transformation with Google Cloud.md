@@ -1,4 +1,4 @@
-# Cloud Digital Leader- Digital Transformation with Google Cloud
+# Cloud Digital Leader - Digital Transformation with Google Cloud
 
 ## Why Cloud Technology is Transforming Business
 
